@@ -1,0 +1,7 @@
+- calculate std for templates and use them to classify unsorted: any
+  spike that exceeds the 3*sigma bound at any point during the snip
+  is pushed into 'unsorted', or something like that..
+- tool for applying a sort to the training set and looking at results
+- brushing tool for pca plots..
+
+  
